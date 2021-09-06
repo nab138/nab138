@@ -1,6 +1,6 @@
-### I'm a bad developer
+## I'm a bad developer
 
-## I'm nab, a developer that writes in javascript, C#, python, some basic html&css, and some very basic obj-c
+### I'm nab, a developer that writes in javascript, C#, python, some basic html&css, and some very basic obj-c
 
 [My site](https://nabdev.tk)
 <!--
