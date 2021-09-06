@@ -1,5 +1,8 @@
-### Hi there 👋
+### I'm a bad developer
 
+## I'm nab, a developer that writes in javascript, C#, python, some basic html&css, and some very basic obj-c
+
+[My site](https://nabdev.tk)
 <!--
 **nab138/nab138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
