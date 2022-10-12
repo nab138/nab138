@@ -1,6 +1,6 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/526776599505403904?borderRadius=20px&bg=000)](https://discord.com/users/526776599505403904)
 
-I'm nab, a developer that writes in javascript, C#, python, some basic html&css, and some very basic obj-c
+I'm a bad developer that writes in javascript, java/kotlin, C#, python, some basic html&css, and some very basic obj-c (I hate apple)
 
 [My site](https://nabdev.tk)
 <!--
