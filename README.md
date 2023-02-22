@@ -1,4 +1,3 @@
-
 I'm a bad developer that writes in java/kotlin, javascript, C#, python, some basic html&css, and some very basic obj-c (I hate apple)
 Programmer for the FRC Team 3044
 
