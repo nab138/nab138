@@ -1,4 +1,4 @@
-I'm a bad developer that writes in java/kotlin, javascript, C#, python, rust, and some basic html&css
+I write in java/kotlin, javascript, C#, python, rust, some basic html&css, and more.
 Programmer for the FRC Team 3044
 
 [My site](https://nabdev.me)
