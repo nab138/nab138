@@ -1,4 +1,4 @@
-I write in java/kotlin, javascript, C#, python, rust, some basic html&css, and more.
+I write in java/kotlin, javascript/typescript, react, C#, python, rust, some basic html&css, and more.
 Programmer for the FRC Team 3044
 
 [My site](https://nabdev.me)
