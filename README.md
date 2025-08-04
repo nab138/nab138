@@ -1,6 +1,6 @@
-High school student looking to get into software engineering.
-I code java, kotlin, javascript, typescript, react, C#, python, rust, html, css, and more.
-Programmer for the FRC Team 3044
+High school student looking to get into software engineering. Programmer for the FRC Team 3044.
+
+I code in java, kotlin, javascript, typescript, react, C#, python, rust, html, css, and more.
 
 [Check out my portfolio!](https://nabdev.me)
 
