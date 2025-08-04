@@ -1,6 +1,7 @@
-I write in java/kotlin, javascript/typescript, react, C#, python, rust, some basic html&css, and more.
+High school student looking to get into software engineering.
+I code java, kotlin, javascript, typescript, react, C#, python, rust, html, css, and more.
 Programmer for the FRC Team 3044
 
-[My site](https://nabdev.me)
+[Check out my portfolio!](https://nabdev.me)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/526776599505403904?borderRadius=20px&bg=000)](https://discord.com/users/526776599505403904)
+[![nab138's GitHub stats](https://github-readme-stats.vercel.app/api?username=nab138)](https://github.com/anuraghazra/github-readme-stats)
