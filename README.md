@@ -1,6 +1,8 @@
-High school student looking to get into software/computer engineering. Programmer for the FRC Team 3044.
+RPI Class of 2030, Computer & Systems Engineering
 
-I code in java, kotlin, javascript, typescript, react, C#, python, rust, html, css, and more.
+I code in java, typescript, react, rust, C#, and more. I mostly work on iOS sideloading projects these days.
+
+Ex-FRC (Team 3044)
 
 [Check out my portfolio!](https://nabdev.me)
 
