@@ -6,4 +6,4 @@ Ex-FRC (Team 3044)
 
 [Check out my portfolio!](https://nabdev.me)
 
-[![nab138's GitHub stats](https://github-readme-stats.vercel.app/api?username=nab138)](https://github.com/anuraghazra/github-readme-stats)
+[![nab138's GitHub stats](https://github-stats-extended.vercel.app/api?username=nab138)](https://github.com/stats-organization/github-stats-extended)
